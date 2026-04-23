@@ -2,7 +2,7 @@
 
 
 # La configuration DHCP du serveur :
-![CONFIG](1png)
+![CONFIG](1.png)
 
 
 # La configuration IP du 1er client:
