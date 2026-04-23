@@ -1,4 +1,4 @@
-# quete_dhcp_debian
+# quete_dhcp_debian -- MERCI LES CORRECTEURS {{ DANKE SCHEUNE }}
 
 
 # La configuration DHCP du serveur :
